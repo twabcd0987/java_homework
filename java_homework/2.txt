@@ -1,0 +1,6 @@
+Write a class Person.
+We need to model the concept of a family. For our needs, a family will consist of            
+	A father and a mother. 
+A number of children.
+We can model parents as instances of the Person class and children as a collection of Person instances,. At least, the Family class should provide the following methods:
+	Suitable initialization constructors. 

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.6.0_27"/>
+	<classpathentry kind="lib" path="D:/Program Files/mysql-connector-java-5.1.18/mysql-connector-java-5.1.18-bin.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/eclipse/plugins/org.eclipse.swt.win32.win32.x86_3.7.0.v3735b.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
